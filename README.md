@@ -2,9 +2,9 @@
 ## Built Using SwiftUI Framework
 
 
-![1](https://user-images.githubusercontent.com/104306074/184508758-634b986c-c8a6-4a57-9a82-b4984142a99f.png)
-![2](https://user-images.githubusercontent.com/104306074/184508759-3912f62c-c898-4c83-9783-c2077b1f72db.png)
-![3](https://user-images.githubusercontent.com/104306074/184508761-ada04664-dd20-44e1-b843-31ea63c99bd8.png)
-![4](https://user-images.githubusercontent.com/104306074/184508764-2f46cfcb-209d-457f-8d3c-13bbd4dc8e82.png)
-![5](https://user-images.githubusercontent.com/104306074/184508769-6e48f804-d8ff-4c32-9fd2-958ca661d085.png)
 
+![1](https://user-images.githubusercontent.com/104306074/184508920-d4367a9e-c231-4382-972f-d147f4a0a229.png)
+![3](https://user-images.githubusercontent.com/104306074/184508926-37366c39-5f6d-40e8-91ce-dc8dbe6108a8.png)
+![4](https://user-images.githubusercontent.com/104306074/184508927-6f158ebd-7b42-45a6-8017-923317510efd.png)
+![5](https://user-images.githubusercontent.com/104306074/184508929-6b10a2da-e781-4df9-bda3-03301ac860ea.png)
+![6](https://user-images.githubusercontent.com/104306074/184508930-f59a7917-f18b-4713-b408-edc608edac84.png)
